@@ -27,7 +27,7 @@ The dataset comprises 1,982,208 observations, including skin temperature, snow d
 
 ## Study Area
 
-![Study Area](MHATCN_figure_1.png)
+![Study Area](MHATCN_figure_1.jpeg)
 
 **Figure 1.** Administrative boundaries of Indian states with the location of the Baramulla district (left), the digital elevation model highlighting the pronounced elevation gradient (centre), and location with respect to India (right).
 
