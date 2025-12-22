@@ -27,7 +27,7 @@ The dataset comprises 1,982,208 observations, including skin temperature, snow d
 
 ## Study Area
 
-![Study Area](MHTCN_figure_1.png)
+![Study Area](MHATCN_figure_1.png)
 
 **Figure 1.** Administrative boundaries of Indian states with the location of the Baramulla district (left), the digital elevation model highlighting the pronounced elevation gradient (centre), and location with respect to India (right).
 
@@ -37,7 +37,7 @@ The study focuses on the Baramulla district in Jammu and Kashmir, a region chara
 
 ## Model Architecture
 
-![Model Architecture Comparison](MHTCN_figure_2.png)
+![Model Architecture Comparison](MHATCN_figure_2.png)
 
 **Figure 2.** Architecture comparison between TCN-Transformer baseline (left) and proposed MHATCN model (right). Baseline uses simple global average pooling after transformer encoder, while MHATCN uses progressive channel expansion in TCN blocks followed by multi-head attention and residual blocks.
 
@@ -112,7 +112,7 @@ These results indicate improved predictive accuracy and robustness across varyin
 
 ### Spatial Patterns
 
-![Spatial Gradient Distribution](MHTCN_figure_7.png)
+![Spatial Gradient Distribution](MHATCN_figure_7.png)
 
 **Figure 7.** Spatial distribution of gradient magnitudes for skin temperature (a), surface net solar radiation (b), and evaporation (c) across study regions. Temperature gradients show maximum values exceeding 4.68 K/degree in northern sections, while solar radiation gradients peak at 2.89 MJ/m²/degree, and evaporation gradients reach 1.35 mm/degree.
 
