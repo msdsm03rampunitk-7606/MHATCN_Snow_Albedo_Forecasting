@@ -259,6 +259,34 @@ We acknowledge the European Centre for Medium-Range Weather Forecasts (ECMWF) fo
 
 ---
 
+
+## Discussion
+## Reproducibility
+
+The complete model implementation and training pipeline are publicly available via Google Colab:
+
+- [Notebook 1](https://colab.research.google.com/drive/1hNvNPOrrp3CfXXqbnYp3JqQzlr11JLGu?usp=sharing)
+- [Notebook 2](https://colab.research.google.com/drive/1SHnL6g1VstvlmsQyWMiZnFFHBrcggexW?usp=sharing)
+
+## Model Overview
+
+MHATCN combines Temporal Convolutional Networks (TCN) with Multi-Head Attention mechanisms for snow albedo prediction using ERA5-Land reanalysis data.
+
+## Key Results
+
+- 8.1% improvement in RMSE over baseline
+- 14.3% improvement in MAE over baseline
+- Coefficient of variation: 2.08% across seeds (42 and 123)
+
+## Data
+
+ERA5-Land reanalysis data provided by ECMWF via the Copernicus Climate Change Service (C3S).
+
+## Acknowledgements
+
+We acknowledge ECMWF for providing ERA5-Land reanalysis data through C3S. We also thank the open-source community for developing and maintaining the software tools used in this research.
+
+
 ## Version History
 
 - **v1.0.0** (2024) - Initial release with complete implementation and analysis for 2019-2021 winter seasons
