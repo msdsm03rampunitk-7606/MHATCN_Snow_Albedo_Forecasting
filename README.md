@@ -265,8 +265,10 @@ We acknowledge the European Centre for Medium-Range Weather Forecasts (ECMWF) fo
 
 The complete model implementation and training pipeline are publicly available via Google Colab:
 
-- [Notebook 1](https://colab.research.google.com/drive/1hNvNPOrrp3CfXXqbnYp3JqQzlr11JLGu?usp=sharing)
-- [Notebook 2](https://colab.research.google.com/drive/1SHnL6g1VstvlmsQyWMiZnFFHBrcggexW?usp=sharing)
+[![Open In Colab - Model Implementation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hNvNPOrrp3CfXXqbnYp3JqQzlr11JLGu?usp=sharing)
+
+[![Open In Colab - Model Implementation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SHnL6g1VstvlmsQyWMiZnFFHBrcggexW?usp=sharing)
+
 
 ## Model Overview
 
